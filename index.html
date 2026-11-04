@@ -5,6 +5,14 @@
 <title>BVA Prüfungstraining</title>
 <style>
 :root{font-family:system-ui,-apple-system,sans-serif;color:#233449;background:#f3f6fa}body{max-width:690px;margin:24px auto;padding:0 16px 50px}h1{color:#174a78;font-size:1.7rem}h2{font-size:1.2rem}.panel,.frage{background:white;border-radius:14px;padding:20px;margin:16px 0;box-shadow:0 2px 10px #132b4512}.meta{color:#536577}.stats{display:flex;gap:12px;flex-wrap:wrap}.stat{flex:1;min-width:100px;background:#edf3f8;border-radius:10px;padding:12px}.stat strong{display:block;font-size:1.5rem}.bar{height:12px;border-radius:10px;background:#e0e8ee;overflow:hidden;margin:12px 0}.fill{height:100%;background:#248879;width:0%;transition:width .25s}label.option{display:block;border:1px solid #dbe3ec;border-radius:8px;padding:12px;margin:9px 0;cursor:pointer}input{margin-right:9px}button{background:#174a78;color:white;border:0;padding:14px 18px;border-radius:9px;font-size:1rem;cursor:pointer;margin:8px 8px 8px 0}button:disabled{opacity:.5;cursor:default}.secondary{background:#e6eef5;color:#174a78}.feedback{border-left:4px solid #248879;padding-left:12px;margin:15px 0}.wrong{border-left-color:#b77d36}.small{font-size:.9rem;color:#536577}button:focus-visible,input:focus-visible{outline:3px solid #f0a63c;outline-offset:3px}
+
+/* iPhone: feste Kartenbreite und saubere Textumbrueche */
+*,*::before,*::after{box-sizing:border-box}
+.frage{min-width:0;width:100%;overflow-wrap:break-word}
+.frage h3{font-size:1.05rem;line-height:1.45;margin:0 0 14px;overflow-wrap:anywhere}
+label.option{display:flex;align-items:flex-start;gap:11px;min-width:0;line-height:1.45}
+label.option input{flex:0 0 auto;margin:4px 0 0}
+label.option span{flex:1;min-width:0;overflow-wrap:break-word}
 </style>
 </head>
 <body>
@@ -39,7 +47,7 @@ function getWeek(){const key=weekStart();try{const obj=JSON.parse(localStorage.g
 function saveWeek(obj){try{localStorage.setItem(storageKey,JSON.stringify(obj));return true;}catch(e){return false;}}
 function level(p){return p>=200?'Gold':p>=100?'Silber':'Bronze';}
 function renderWeek(){const w=getWeek();$('weekLabel').textContent='Woche ab '+new Date(w.week+'T12:00:00').toLocaleDateString('de-DE');$('weeklyPoints').textContent=w.points;$('weeklyTests').textContent=w.tests;$('weeklyLevel').textContent=level(w.points);const threshold=w.points<100?100:w.points<200?200:200;$('weeklyBar').style.width=Math.min(100,w.points/threshold*100)+'%';$('nextLevel').textContent=w.points>=200?'Gold erreicht! ⭐':`${threshold-w.points} Punkte bis ${threshold===100?'Silber':'Gold'}.`;}
-function renderQuiz(){const quiz=$('quiz');quiz.replaceChildren();tasks.forEach((t,i)=>{const box=document.createElement('fieldset');box.className='frage';box.style.border='0';const legend=document.createElement('legend');legend.style.fontWeight='bold';legend.textContent=`Frage ${i+1}: ${t.question}`;box.append(legend);t.answers.forEach((a,j)=>{const label=document.createElement('label');label.className='option';const input=document.createElement('input');input.type='radio';input.name='q'+i;input.value=String(j);label.append(input,document.createTextNode(a));box.append(label);});quiz.append(box);});}
+function renderQuiz(){const quiz=$('quiz');quiz.replaceChildren();tasks.forEach((t,i)=>{const box=document.createElement('div');box.className='frage';box.setAttribute('role','group');const heading=document.createElement('h3');heading.id='question-'+i;heading.textContent=`Frage ${i+1}: ${t.question}`;box.setAttribute('aria-labelledby',heading.id);box.append(heading);t.answers.forEach((a,j)=>{const label=document.createElement('label');label.className='option';const input=document.createElement('input');input.type='radio';input.name='q'+i;input.value=String(j);const answerText=document.createElement('span');answerText.textContent=a;label.append(input,answerText);box.append(label);});quiz.append(box);});}
 let emailText='';let submitted=false;
 function submitTest(){if(submitted)return;submitted=true;let correct=0;const details=[];const result=$('result');result.replaceChildren();tasks.forEach((t,i)=>{const selected=document.querySelector(`input[name="q${i}"]:checked`);const answer=selected?Number(selected.value):-1;const ok=answer===t.correct;if(ok)correct++;details.push({task:t,answer,ok});});
 const percent=Math.round(100*correct/tasks.length);const w=getWeek();w.points+=correct*10;w.tests+=1;const saved=saveWeek(w);renderWeek();
