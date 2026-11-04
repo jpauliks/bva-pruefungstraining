@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BVA Prüfungstraining</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 650px;
+      margin: 30px auto;
+      padding: 16px;
+      background: #f4f7fb;
+      color: #243449;
+    }
+    h1 { color: #174a78; }
+    .frage {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px #0001;
+    }
+    label {
+      display: block;
+      padding: 9px 0;
+      cursor: pointer;
+    }
+    input { margin-right: 10px; }
+    button {
+      background: #174a78;
+      color: white;
+      border: none;
+      padding: 14px 22px;
+      border-radius: 8px;
+      font-size: 17px;
+      cursor: pointer;
+    }
+    #ergebnis {
+      margin-top: 24px;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>BVA Prüfungstraining</h1>
+  <p>Multiple-Choice-Test: Verwaltungsorganisation</p>
+  <div id="fragen"></div>
+  <button onclick="auswerten()">Test abgeben</button>
+  <div id="ergebnis" aria-live="polite"></div>
+
+  <script>
+    const aufgaben = [
+      {
+        frage: "Was zeigt ein Organisationsplan?",
+        antworten: [
+          "Die Urlaubszeiten der Beschäftigten",
+          "Den organisatorischen Aufbau einer Behörde",
+          "Die Haushaltsausgaben"
+        ],
+        richtig: 1
+      },
+      {
+        frage: "Was kennzeichnet das Einliniensystem?",
+        antworten: [
+          "Jeder Beschäftigte hat grundsätzlich einen unmittelbar weisungsbefugten Vorgesetzten",
+          "Jeder Beschäftigte hat mehrere fachliche Vorgesetzte",
+          "Es gibt keine Weisungsbefugnisse"
+        ],
+        richtig: 0
+      },
+      {
+        frage: "Welche Aufgabe hat eine Stabsstelle?",
+        antworten: [
+          "Sie erteilt grundsätzlich allen Referaten Weisungen",
+          "Sie ersetzt die Behördenleitung",
+          "Sie berät und unterstützt die Leitung"
+        ],
+        richtig: 2
+      }
+    ];
+
+    const container = document.getElementById("fragen");
+
+    aufgaben.forEach((a, i) => {
+      const div = document.createElement("div");
+      div.className = "frage";
+
+      const titel = document.createElement("h3");
+      titel.textContent = `Frage ${i + 1}: ${a.frage}`;
+      div.appendChild(titel);
+
+      a.antworten.forEach((antwort, j) => {
+        const label = document.createElement("label");
+        const radio = document.createElement("input");
+        radio.type = "radio";
+        radio.name = `frage${i}`;
+        radio.value = j;
+        label.append(radio, document.createTextNode(antwort));
+        div.appendChild(label);
+      });
+
+      container.appendChild(div);
+    });
+
+    function auswerten() {
+      let punkte = 0;
+      let bericht = "";
+
+      aufgaben.forEach((a, i) => {
+        const auswahl = document.querySelector(
+          `input[name="frage${i}"]:checked`
+        );
+        const wert = auswahl ? Number(auswahl.value) : -1;
+
+        if (wert === a.richtig) {
+          punkte++;
+          bericht += `<p>Frage ${i + 1}: Richtig ✓</p>`;
+        } else {
+          bericht += `<p>Frage ${i + 1}: Falsch ✗<br>
+            Richtige Antwort: ${a.antworten[a.richtig]}</p>`;
+        }
+      });
+
+      const prozent = Math.round(punkte / aufgaben.length * 100);
+
+      document.getElementById("ergebnis").innerHTML =
+        `<h2>Ergebnis: ${punkte}/${aufgaben.length} Punkte
+        (${prozent} %)</h2>${bericht}`;
+    }
+  </script>
+</body>
+</html>
