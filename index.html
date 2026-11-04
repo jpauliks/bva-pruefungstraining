@@ -51,6 +51,13 @@
   <button onclick="auswerten()">Test abgeben</button>
   <div id="ergebnis" aria-live="polite"></div>
 
+<button id="emailButton"
+        type="button"
+        onclick="emailSenden()"
+        style="display:none; margin-top:15px;">
+  ✉️ Ergebnis per E-Mail senden
+</button>
+  
   <script>
     const aufgaben = [
       {
