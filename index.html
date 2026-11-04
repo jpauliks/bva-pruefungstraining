@@ -116,6 +116,9 @@
       let punkte = 0;
       let bericht = "";
 
+      let emailBericht = "BVA-Prüfungstraining\n";
+emailBericht += "Fach: Verwaltungsorganisation\n\n";
+
       aufgaben.forEach((a, i) => {
         const auswahl = document.querySelector(
           `input[name="frage${i}"]:checked`
@@ -131,12 +134,52 @@
         }
       });
 
+      
+aufgaben.forEach((a, i) => {
+  const auswahl = document.querySelector(
+    `input[name="frage${i}"]:checked`
+  );
+  const wert = auswahl ? Number(auswahl.value) : -1;
+
+  emailBericht += `Frage ${i + 1}: ${a.frage}\n`;
+  emailBericht += `Antwort: ${
+    wert >= 0 ? a.antworten[wert] : "Nicht beantwortet"
+  }\n`;
+  emailBericht += `Richtige Lösung: ${
+    a.antworten[a.richtig]
+  }\n`;
+  emailBericht += `Bewertung: ${
+    wert === a.richtig ? "Richtig" : "Falsch"
+  }\n\n`;
+});
+
       const prozent = Math.round(punkte / aufgaben.length * 100);
 
       document.getElementById("ergebnis").innerHTML =
         `<h2>Ergebnis: ${punkte}/${aufgaben.length} Punkte
         (${prozent} %)</h2>${bericht}`;
+
+      window.emailErgebnis =
+  `Ergebnis: ${punkte}/${aufgaben.length} Punkte (${prozent} %)\n\n`
+  + emailBericht;
+
+document.getElementById("emailButton").style.display = "block";
     }
+
+    
+function emailSenden() {
+  if (!window.emailErgebnis) return;
+
+  const empfaenger = "j.paulik@mail.de";
+  const betreff = "BVA Prüfungstraining – Testergebnis";
+
+  const link = "mailto:" + empfaenger
+    + "?subject=" + encodeURIComponent(betreff)
+    + "&body=" + encodeURIComponent(window.emailErgebnis);
+
+  window.location.href = link;
+}
+
   </script>
 </body>
 </html>
