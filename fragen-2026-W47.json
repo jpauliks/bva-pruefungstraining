@@ -65,7 +65,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Urlaubszeiten",
@@ -113,7 +113,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Grundsätzlich eine unmittelbar weisungsbefugte Führungskraft je Person",
@@ -161,7 +161,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Allen Referaten Weisungen erteilen",
@@ -209,7 +209,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Oberste Bundesbehörde",
@@ -263,7 +263,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bundesunmittelbare Körperschaft des öffentlichen Rechts",
@@ -322,7 +322,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Unmittelbar die Behördenleitung anschreiben",
@@ -370,7 +370,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Aufgaben und Zuständigkeiten zuordnen",
@@ -422,7 +422,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Beratung der Leitung",
@@ -474,7 +474,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bundesministerium",
@@ -543,7 +543,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Er unterstützt einen geordneten Informationsfluss",
@@ -596,7 +596,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:0-10"
         ],
@@ -651,7 +651,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Aufbauorganisation gliedert Aufgaben und Zuständigkeiten",
@@ -700,7 +700,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Referate",
         "legacyId": "0-12",
@@ -744,7 +744,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:0-13"
         ],
@@ -790,7 +790,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Vorgänge",
         "legacyId": "0-14",
@@ -839,7 +839,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:0-15"
         ],
@@ -896,7 +896,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Gesamtaufgabe erfassen",
@@ -949,7 +949,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Aufbau der Behörde",
@@ -1007,7 +1007,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Oberste Bundesbehörde",
@@ -1080,7 +1080,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Aufgabenwahrnehmung im regulären Weisungsgefüge",
@@ -1284,7 +1284,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-OR-20261108-024"
         ],
@@ -1337,7 +1337,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-OR-20261108-025"
         ],
@@ -1387,7 +1387,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Zeit für Anreise und Puffer",
@@ -1434,7 +1434,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Mehrliniensystem",
@@ -1485,7 +1485,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-OR-20261108-028"
         ],
@@ -1535,7 +1535,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Abstimmungs- und Kompetenzkonflikt",
@@ -1582,7 +1582,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Zusammenpassen von Aufgabe, Kompetenz und Verantwortung",
@@ -1629,7 +1629,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Abwesenheitsvertretung",
@@ -1676,7 +1676,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Zahl der einer Führungskraft unmittelbar unterstellten Stellen",
@@ -1723,7 +1723,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Stellen",
         "primarySources": [],
@@ -1766,7 +1766,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Querschnittsaufgabe",
@@ -1814,7 +1814,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Projektgruppe",
@@ -1867,7 +1867,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-OR-20261108-036"
         ],
@@ -1921,7 +1921,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Kenntnis nehmen",
@@ -1968,7 +1968,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "b. R.",
@@ -2015,7 +2015,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Es macht den Eingang und die Bearbeitungsgrundlage nachvollziehbar",
@@ -2063,7 +2063,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ungeöffnet an die Adressatin weiterleiten",
@@ -2110,7 +2110,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Zwischennachricht",
@@ -2157,7 +2157,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-OR-20261108-042"
         ],
@@ -2206,7 +2206,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "In Vertretung",
@@ -2253,7 +2253,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Im Auftrag",
@@ -2304,7 +2304,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-OR-20261108-045"
         ],
@@ -2354,7 +2354,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Das überwiegend zuständige Referat",
@@ -2401,7 +2401,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Auf den eigenen Zuständigkeitsbereich",
@@ -2453,7 +2453,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:0-15"
         ],
@@ -2503,7 +2503,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Wv mit geeignetem Termin",
@@ -2550,7 +2550,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Zu den Akten",
@@ -2601,7 +2601,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Wv",
@@ -2653,7 +2653,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-OR-20261108-052"
         ],
@@ -2698,7 +2698,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Verfügung",
@@ -2749,7 +2749,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Zeitpunkt und Gesprächspartner",
@@ -2797,7 +2797,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ergebnisprotokoll",
@@ -2844,7 +2844,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Verlaufsprotokoll",
@@ -2895,7 +2895,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Vorbereitung",
@@ -2942,7 +2942,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Minuten",
         "primarySources": [],
@@ -2990,7 +2990,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-OR-20261108-059"
         ],
@@ -3048,7 +3048,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:0-10",
           "BVA-Q-OR-20261108-060"
@@ -3101,7 +3101,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Mündliche Zusage",
@@ -3155,7 +3155,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Anordnung stillschweigend ignorieren",
@@ -3209,7 +3209,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Die handelnde Beamtin oder der handelnde Beamte",
@@ -3263,7 +3263,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Stets heute",
@@ -3317,7 +3317,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Beförderung sofort wirksam",
@@ -3371,7 +3371,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Jede objektive Unregelmäßigkeit genügt",
@@ -3425,7 +3425,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Die oberste Behörde des Dienstherrn, in deren Dienstbereich ein Amt bekleidet wird",
@@ -3484,7 +3484,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Begründung eines Beamtenverhältnisses",
@@ -3543,7 +3543,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bedenken unverzüglich vorbringen",
@@ -3602,7 +3602,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Das Verhalten verletzt die Menschenwürde",
@@ -3661,7 +3661,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Grundsätzlich mit dem Tag der Aushändigung",
@@ -3720,7 +3720,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Anordnungen sind grundsätzlich auszuführen",
@@ -3775,7 +3775,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Tatbestände",
         "legacyId": "1-12",
@@ -3825,7 +3825,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Tag im November",
         "legacyId": "1-13",
@@ -3875,7 +3875,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Stellen",
         "legacyId": "1-14",
@@ -3930,7 +3930,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bedenken beim unmittelbaren Vorgesetzten geltend machen",
@@ -3985,7 +3985,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, ein Vermögensschaden ist keine allgemeine Voraussetzung",
@@ -4043,7 +4043,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Form der Ernennung",
@@ -4106,7 +4106,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nummer 1",
@@ -4169,7 +4169,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Form der Ernennung nicht erfüllt",
@@ -4437,7 +4437,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, begründete Ausnahmen bleiben möglich",
@@ -4491,7 +4491,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -4550,7 +4550,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Lebenszeitprinzip",
@@ -4604,7 +4604,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Öffentlich-rechtliches Dienst- und Treueverhältnis",
@@ -4657,7 +4657,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Der Bund",
@@ -4710,7 +4710,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Die für persönliche beamtenrechtliche Entscheidungen zuständige Person",
@@ -4763,7 +4763,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Wer dienstliche Anordnungen erteilen darf",
@@ -4821,7 +4821,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Statusrechtliches Amt",
@@ -4873,7 +4873,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Beamtenverhältnis auf Widerruf",
@@ -4926,7 +4926,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Beamtenverhältnis auf Probe",
@@ -4979,7 +4979,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, EU-Staatsangehörige sind grundsätzlich erfasst",
@@ -5032,7 +5032,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "§ 7 Abs. 2 BBG",
@@ -5090,7 +5090,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Erfasste Staatsangehörigkeit oder Ausnahme",
@@ -5144,7 +5144,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -5197,7 +5197,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bundespräsident oder bestimmte Stelle",
@@ -5255,7 +5255,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Unter Berufung in das Beamtenverhältnis auf Probe",
@@ -5308,7 +5308,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:1-18"
         ],
@@ -5363,7 +5363,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:1-18"
         ],
@@ -5418,7 +5418,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:1-12",
           "github:jpauliks/bva-pruefungstraining:index.html:1-18"
@@ -5474,7 +5474,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, eine neue Begründung",
@@ -5527,7 +5527,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:1-3",
           "github:jpauliks/bva-pruefungstraining:index.html:1-10"
@@ -5583,7 +5583,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nichtigkeit wegen Formfehlers",
@@ -5640,7 +5640,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Eindeutiger Ernennungswille aus Urkunde oder Akte",
@@ -5694,7 +5694,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bestätigung durch die sachlich zuständige Behörde",
@@ -5747,7 +5747,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Rücknahme auch mit Wirkung für die Vergangenheit",
@@ -5800,7 +5800,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Monate",
         "primarySources": [
@@ -5849,7 +5849,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, sie kann belassen werden",
@@ -5902,7 +5902,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Sie bleiben nach der gesetzlichen Regel in gleicher Weise gültig",
@@ -5961,7 +5961,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nichternennung nach Skriptklassifikation",
@@ -6023,7 +6023,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Urkunde am 5. November erstellt",
@@ -6076,7 +6076,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Jahre",
         "primarySources": [
@@ -6125,7 +6125,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bewährung in der Probezeit",
@@ -6182,7 +6182,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:1-8",
           "github:jpauliks/bva-pruefungstraining:index.html:1-15"
@@ -6239,7 +6239,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:1-11"
         ],
@@ -6294,7 +6294,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:1-8"
         ],
@@ -6355,7 +6355,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Art. 33 Abs. 2 GG",
@@ -6417,7 +6417,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Statusbestimmende Wörter bei Begründung",
@@ -6473,7 +6473,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "TVöD (Bund)",
@@ -6532,7 +6532,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "3 Monate",
@@ -6587,7 +6587,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Mündliche Erklärung",
@@ -6641,7 +6641,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "§ 611a BGB",
@@ -6695,7 +6695,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nur die genaue Diagnose",
@@ -6749,7 +6749,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "BUrlG",
@@ -6803,7 +6803,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nur die Überschrift des Vertrags",
@@ -6861,7 +6861,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Persönliche Abhängigkeit ist ein Merkmal",
@@ -6921,7 +6921,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Kündigung bedarf der Schriftform",
@@ -6980,7 +6980,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bestehen der Arbeitsunfähigkeit",
@@ -7039,7 +7039,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Gesetzlicher Mindesturlaub wird gewährt",
@@ -7098,7 +7098,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "BBG: Bundesbeamtenrecht",
@@ -7163,7 +7163,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Werktage",
         "legacyId": "2-12",
@@ -7213,7 +7213,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Arbeitstage",
         "legacyId": "2-13",
@@ -7263,7 +7263,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Wochen",
         "legacyId": "2-14",
@@ -7318,7 +7318,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Arbeitsunfähigkeit morgens bemerkt, Dauer vorläufig geschätzt",
@@ -7373,7 +7373,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, die elektronische Form ist ausgeschlossen",
@@ -7432,7 +7432,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Arbeitsvertrag",
@@ -7500,7 +7500,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Schuldet vereinbarte Vergütung",
@@ -7568,7 +7568,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Schriftform durch bloßes Sprechen nicht gewahrt",
@@ -7791,7 +7791,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Beiderseitige Tarifbindung",
@@ -7845,7 +7845,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Aus der vertraglichen Bezugnahme",
@@ -7898,7 +7898,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Schriftliche Vereinbarung",
@@ -7951,7 +7951,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Vertretung einer anderen Arbeitnehmerin",
@@ -8004,7 +8004,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Jahre",
         "primarySources": [
@@ -8053,7 +8053,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Schriftform für die Befristung",
@@ -8106,7 +8106,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Arbeitsvertrag gilt als auf unbestimmte Zeit geschlossen",
@@ -8159,7 +8159,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Länger als sechs Monate",
@@ -8212,7 +8212,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "39 Stunden",
@@ -8265,7 +8265,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "30",
@@ -8318,7 +8318,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Fortzahlung des Entgelts nach den tariflichen Regeln",
@@ -8371,7 +8371,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Zwischenzeugnis",
@@ -8424,7 +8424,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Sie hat ein Einsichtsrecht",
@@ -8477,7 +8477,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Angebot unverzüglich anzeigen; Annahme nur mit Zustimmung",
@@ -8530,7 +8530,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Rechtzeitige vorherige schriftliche Anzeige",
@@ -8583,7 +8583,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -8636,7 +8636,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "An den Tätigkeitsmerkmalen der nicht nur vorübergehend auszuübenden Tätigkeit",
@@ -8689,7 +8689,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Erfahrung in der übertragenen oder entsprechenden Tätigkeit",
@@ -8742,7 +8742,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Stufe 1",
@@ -8795,7 +8795,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Jahre",
         "primarySources": [
@@ -8844,7 +8844,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ab Beginn des Novembers",
@@ -8897,7 +8897,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Voll",
@@ -8950,7 +8950,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "primarySources": [
@@ -8999,7 +8999,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "primarySources": [
@@ -9048,7 +9048,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Die im November geltende Tabelle für Bund, richtige Gruppe und Stufe",
@@ -9101,7 +9101,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -9154,7 +9154,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Juli, August, September",
@@ -9207,7 +9207,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "90 Prozent",
@@ -9260,7 +9260,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "primarySources": [
@@ -9313,7 +9313,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Grundsätzlich ein Zwölftel für einen ganzen Monat ohne Entgeltanspruch",
@@ -9367,7 +9367,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "November",
@@ -9424,7 +9424,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Entgeltgruppe und Stufe",
@@ -9482,7 +9482,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Abordnung",
@@ -9544,7 +9544,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "1 Jahr",
@@ -9606,7 +9606,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:2-15"
         ],
@@ -9661,7 +9661,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Unverzüglich informieren, Dauer nach aktuellem Stand angeben",
@@ -9719,7 +9719,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:2-7",
           "github:jpauliks/bva-pruefungstraining:index.html:2-8"
@@ -9779,7 +9779,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Erstattung sämtlicher Lebenshaltungskosten",
@@ -9839,7 +9839,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "BBhV",
@@ -9899,7 +9899,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ja",
@@ -9954,7 +9954,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bei Leistungserbringung",
@@ -10009,7 +10009,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Notwendig und wirtschaftlich angemessen",
@@ -10064,7 +10064,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Prozentualer Anteil der beihilfefähigen Aufwendungen",
@@ -10119,7 +10119,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Leistungserbringung",
@@ -10178,7 +10178,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Rechnungsbetrag und beihilfefähiger Betrag können abweichen",
@@ -10238,7 +10238,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Aktive beihilfeberechtigte Person: 50 %",
@@ -10298,7 +10298,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Grundsätzlich notwendige Aufwendungen",
@@ -10369,7 +10369,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Es gibt eine Begrenzung beim Zusammentreffen mit anderen Leistungen",
@@ -10429,7 +10429,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Persönliche Berechtigung prüfen",
@@ -10485,7 +10485,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "legacyId": "3-12",
@@ -10536,7 +10536,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "legacyId": "3-13",
@@ -10587,7 +10587,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "legacyId": "3-14",
@@ -10644,7 +10644,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Leistung am 2. November",
@@ -10705,7 +10705,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Medizinische Leistung wird erbracht",
@@ -10765,7 +10765,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Vom Leistungserbringer berechnete Summe",
@@ -10829,7 +10829,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "50 %",
@@ -10893,7 +10893,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Beihilfefähigkeit der Aufwendungen",
@@ -11117,7 +11117,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Die Einmonatsausnahme erhält den Anspruch hier nicht",
@@ -11171,7 +11171,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -11225,7 +11225,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Es kann berücksichtigungsfähiges Kind sein",
@@ -11279,7 +11279,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ihr eigener Anspruch",
@@ -11333,7 +11333,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "2024",
@@ -11387,7 +11387,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Die Grenze wird nach gesetzlicher Regel angepasst und bekanntgegeben",
@@ -11441,7 +11441,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Beihilfefähigkeit unter Vorbehalt",
@@ -11495,7 +11495,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Prozent",
         "primarySources": [
@@ -11545,7 +11545,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "70 Prozent",
@@ -11599,7 +11599,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "70 Prozent",
@@ -11653,7 +11653,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "70 Prozent",
@@ -11707,7 +11707,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Behandlung als Leistungserbringung",
@@ -11762,7 +11762,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ja, § 25 BBhV und die einschlägigen Anlagen sind zu prüfen",
@@ -11816,7 +11816,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "5. November",
@@ -11870,7 +11870,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Wissenschaftlich anerkannte Methode",
@@ -11924,7 +11924,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Der vorgesehene Gebührenrahmen der einschlägigen Gebührenordnung",
@@ -11978,7 +11978,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, Besonderheiten des Einzelfalls müssen die Überschreitung rechtfertigen",
@@ -12041,7 +12041,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Datum der Leistung",
@@ -12101,7 +12101,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Verordnung im Rahmen der Behandlung",
@@ -12155,7 +12155,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "primarySources": [
@@ -12205,7 +12205,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "primarySources": [
@@ -12255,7 +12255,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "primarySources": [
@@ -12305,7 +12305,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "primarySources": [
@@ -12355,7 +12355,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -12409,7 +12409,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Auf die jeweilige Packung",
@@ -12463,7 +12463,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Höchstens insgesamt 28 Tage",
@@ -12521,7 +12521,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Arzneimittel für ein Kind unter 18, keine Fahrtkosten",
@@ -12576,7 +12576,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "2 Prozent der maßgeblichen jährlichen Einnahmen",
@@ -12630,7 +12630,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Schriftlich oder elektronisch",
@@ -12684,7 +12684,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Die Aufwendungen sind von der Beihilfefähigkeit ausgenommen",
@@ -12738,7 +12738,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Drei Jahre nach Rechnungsdatum",
@@ -12792,7 +12792,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Rechnungsdatum",
@@ -12846,7 +12846,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "10. November 2026, 0 Uhr",
@@ -12905,7 +12905,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Mit Ablauf des nächstfolgenden Werktags",
@@ -12965,7 +12965,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Leistungserbringung nach § 6",
@@ -13029,7 +13029,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Behandlung am 2. November",
@@ -13089,7 +13089,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, Bearbeitungsstatus unbekannt",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Beihilfefähiger Anteil",
@@ -13143,7 +13143,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "BRKG",
@@ -13195,7 +13195,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Jeder private Weg zur Arbeit",
@@ -13247,7 +13247,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Fahrt- und Flugkostenerstattung",
@@ -13299,7 +13299,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nach 6 Monaten ab Beendigung der Dienstreise",
@@ -13351,7 +13351,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Zurückgelegte Kilometer und gesetzlicher Satz/Höchstbetrag",
@@ -13403,7 +13403,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Mehraufwendungen für Verpflegung",
@@ -13455,7 +13455,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Feststellung in der Anordnung/Genehmigung schriftlich oder elektronisch",
@@ -13511,7 +13511,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-7"
         ],
@@ -13570,7 +13570,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Dienstgeschäft außerhalb der Dienststätte",
@@ -13627,7 +13627,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Vergütung auf Antrag",
@@ -13684,7 +13684,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-10"
         ],
@@ -13743,7 +13743,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Frühstück",
@@ -13796,7 +13796,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-12"
         ],
@@ -13846,7 +13846,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-13"
         ],
@@ -13896,7 +13896,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-14"
         ],
@@ -13950,7 +13950,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-15"
         ],
@@ -14004,7 +14004,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "130 Euro",
@@ -14060,7 +14060,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Fahrtkostenerstattung",
@@ -14121,7 +14121,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Begriff und Rahmen der Dienstreise",
@@ -14182,7 +14182,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "20 % des vollen Tagessatzes",
@@ -14402,7 +14402,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Schriftlich oder elektronisch",
@@ -14453,7 +14453,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Abreise und Ankunft an Wohnung oder Dienststätte",
@@ -14504,7 +14504,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-RK-20261108-026"
         ],
@@ -14557,7 +14557,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "An die Beendigung der Dienstreise",
@@ -14608,7 +14608,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Die gesetzliche Nachreichfrist ab Aufforderung",
@@ -14659,7 +14659,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Niedrigste Beförderungsklasse",
@@ -14710,7 +14710,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Kosten der nächsthöheren Klasse können erstattet werden",
@@ -14761,7 +14761,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Kosten der nächsthöheren Klasse werden erstattet",
@@ -14812,7 +14812,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Niedrigste Flugklasse",
@@ -14863,7 +14863,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Sie ist zu berücksichtigen",
@@ -14914,7 +14914,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Erstattung der entstandenen notwendigen Kosten",
@@ -14969,7 +14969,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-7"
         ],
@@ -15023,7 +15023,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -15074,7 +15074,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -15125,7 +15125,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-RK-20261108-038"
         ],
@@ -15174,7 +15174,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-RK-20261108-039"
         ],
@@ -15223,7 +15223,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-12",
           "BVA-Q-RK-20261108-040"
@@ -15277,7 +15277,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -15333,7 +15333,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-RK-20261108-042"
         ],
@@ -15387,7 +15387,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -15443,7 +15443,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-14",
           "BVA-Q-RK-20261108-044"
@@ -15493,7 +15493,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-14",
           "BVA-Q-RK-20261108-045"
@@ -15543,7 +15543,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-RK-20261108-046"
         ],
@@ -15596,7 +15596,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "20 Euro",
@@ -15647,7 +15647,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ob sie notwendig sind",
@@ -15698,7 +15698,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -15749,7 +15749,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nebenkosten nach § 10",
@@ -15800,7 +15800,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -15851,7 +15851,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Vorbereitungsbedingte erstattungsfähige Auslagen können erstattet werden",
@@ -15908,7 +15908,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-RK-20261108-053"
         ],
@@ -15967,7 +15967,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:4-12",
           "github:jpauliks/bva-pruefungstraining:index.html:4-13",
@@ -16033,7 +16033,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "§ 4 BRKG",
@@ -16094,7 +16094,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Genehmigung am 9. November",
@@ -16146,7 +16146,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Vom 15. Tag an 50 Prozent nach der gesetzlichen Regel",
@@ -16197,7 +16197,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Vergütung wie bei rein dienstlicher Reise, nicht höher als tatsächlich entstandene Kosten",
@@ -16248,7 +16248,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, Vorgabe übernehmen und die gefragten Kosten prüfen",
@@ -16305,7 +16305,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Wegstreckenentschädigung betrifft die Strecke",
@@ -16360,7 +16360,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Einnahmen nach Entstehungsgrund, Ausgaben und Verpflichtungsermächtigungen nach Zwecken trennen",
@@ -16413,7 +16413,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "§ 20 BHO",
@@ -16466,7 +16466,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Grundsätzlich Verwendung nur für den vorgesehenen Zweck",
@@ -16519,7 +16519,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ja, unbegrenzt",
@@ -16572,7 +16572,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "§ 46 BHO",
@@ -16625,7 +16625,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Mittel können nach Maßgabe der Regel von A nach B, nicht automatisch umgekehrt verwendet werden",
@@ -16678,7 +16678,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ja, stets",
@@ -16735,7 +16735,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:5-7"
         ],
@@ -16795,7 +16795,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Einnahmen nach Entstehungsgrund trennen",
@@ -16853,7 +16853,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:5-9"
         ],
@@ -16913,7 +16913,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:5-10"
         ],
@@ -16973,7 +16973,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Gegenseitige Deckung kann beide Richtungen eröffnen",
@@ -17027,7 +17027,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "legacyId": "5-12",
@@ -17076,7 +17076,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "legacyId": "5-13",
@@ -17125,7 +17125,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:5-14"
         ],
@@ -17180,7 +17180,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Einzelplan",
@@ -17238,7 +17238,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 3,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Haushaltsansatz erfassen",
@@ -17296,7 +17296,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:5-17"
         ],
@@ -17360,7 +17360,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "github:jpauliks/bva-pruefungstraining:index.html:5-18"
         ],
@@ -17424,7 +17424,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "A → B",
@@ -17648,7 +17648,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "primarySources": [
@@ -17696,7 +17696,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Geborene Übertragbarkeit der daraus zu leistenden Ausgaben",
@@ -17748,7 +17748,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -17800,7 +17800,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, Einnahmen und Ausgaben sind grundsätzlich voll getrennt zu veranschlagen",
@@ -17852,7 +17852,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Buchung getrennt und in voller Höhe beim vorgesehenen Titel",
@@ -17904,7 +17904,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Minimalprinzip",
@@ -17956,7 +17956,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Maximalprinzip",
@@ -18008,7 +18008,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Auf die entscheidungsrelevanten Gesamtkosten und Nutzen",
@@ -18064,7 +18064,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-HK-20261108-032"
         ],
@@ -18119,7 +18119,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Die zur Erfüllung der Bundesaufgaben notwendigen",
@@ -18171,7 +18171,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "§ 34 Abs. 2 erlaubt das nicht allein aus diesem Grund",
@@ -18223,7 +18223,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Rechtzeitig und vollständig",
@@ -18275,7 +18275,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "2027",
@@ -18327,7 +18327,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ermächtigung zum Eingehen der künftigen Verpflichtung",
@@ -18379,7 +18379,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-HK-20261108-038"
         ],
@@ -18429,7 +18429,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Ja",
@@ -18481,7 +18481,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Übertragbarerklärung im Haushaltsplan bei den gesetzlichen Voraussetzungen",
@@ -18533,7 +18533,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein, Inanspruchnahme ist gesondert zu prüfen",
@@ -18585,7 +18585,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bundesministerium der Finanzen",
@@ -18637,7 +18637,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "unit": "Euro",
         "primarySources": [
@@ -18685,7 +18685,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -18737,7 +18737,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Beauftragte Person für den Haushalt",
@@ -18789,7 +18789,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Leitung der Dienststelle",
@@ -18841,7 +18841,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Haushalts- und Wirtschaftsführung auf Ordnungsmäßigkeit und Wirtschaftlichkeit",
@@ -18898,7 +18898,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -18950,7 +18950,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Es stellt den Haushalt für bestimmte Rechnungsjahre fest",
@@ -19007,7 +19007,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Sachliches Bepackungsverbot",
@@ -19059,7 +19059,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bezug auf den Zeitraum, für den es beschlossen wird",
@@ -19117,7 +19117,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Aufstellung",
@@ -19176,7 +19176,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Bundesregierung/Exekutive",
@@ -19233,7 +19233,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Vier",
@@ -19286,7 +19286,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "In Kapitel und Titel",
@@ -19343,7 +19343,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Haushaltsübersicht",
@@ -19401,7 +19401,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Kalenderjahr",
@@ -19458,7 +19458,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-HK-20261108-058"
         ],
@@ -19518,7 +19518,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "gezielte Wiederholung nach Fehler",
+        "reuse": "gezielte Wiederholung",
         "repeatsOrigins": [
           "BVA-Q-HK-20261108-059"
         ],
@@ -19573,7 +19573,7 @@
         "week": "2026-11-16",
         "caseYear": 2026,
         "revision": 2,
-        "reuse": "übernommen, zuvor richtig beantwortet",
+        "reuse": "übernommen",
         "repeatsOrigins": [],
         "options": [
           "Nein",
@@ -19602,5 +19602,5 @@
     "from": "2026-11-08T15:58:00+01:00",
     "to": "2026-11-15T15:58:00+01:00"
   },
-  "reusePolicy": "57 übernommene/gezielt wiederholte plus 3 neue Fragen je Fach; Status nur aus Berichten belegt, sonst unbekannt."
+  "reusePolicy": "57 übernommene oder fachlich gezielt wiederholte plus 3 neue Fragen je Fach; personenbezogene Bearbeitungsstände sind nicht enthalten."
 }
