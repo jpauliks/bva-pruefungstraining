@@ -44,17 +44,37 @@ function holidayTasks(day) {
   });
 }
 
+const berlinHour = new Intl.DateTimeFormat('de-DE', {
+  timeZone: 'Europe/Berlin', hour: 'numeric', hourCycle: 'h23'
+});
+
+function availableHolidayDays(now = new Date()) {
+  const today = dateKey(now);
+  const days = [today];
+  const hour = berlinHour.formatToParts(now).find(part => part.type === 'hour');
+  if (Number(hour.value) >= 20) days.push(holidayTarget(today));
+  return days.filter(day => HOLIDAY_FOCUS[day]);
+}
+
 function renderHoliday() {
-  const day = dateKey();
+  const today = dateKey();
+  const heading = document.querySelector('#main > h2');
+  for (const day of availableHolidayDays()) heading.before(holidaySection(day, today));
+}
+
+function holidaySection(day, today) {
   const session = HOLIDAY_FOCUS[day];
-  if (!session) return;
   const key = holidayKey(day);
   const result = state.history.find(r => r.preparationDay === day);
   const draft = state.drafts[key];
   const section = document.createElement('section');
+  section.dataset.preparationDay = day;
+  const note = day === today
+    ? 'Bitte den Ergebnisbericht möglichst bis heute um 19:45 Uhr absenden.'
+    : 'Vorab verfügbar. Bearbeite dieses Paket morgen oder starte schon jetzt. Ergebnisbericht bitte bis ' + fmt(day) + ', 19:45 Uhr, absenden.';
   section.innerHTML = '<h2>Vorbereitung für ' + fmt(holidayTarget(day)) + '</h2>'
     + '<p>' + session.map(([, title]) => esc(title)).join(' · ') + '</p>'
-    + '<p class="small">60 Fragen mit Wiederholungen aus der Fragenbank. Bitte den Ergebnisbericht möglichst bis 19:45 Uhr per E-Mail absenden.</p>';
+    + '<p class="small">60 Fragen mit Wiederholungen aus der Fragenbank. ' + esc(note) + '</p>';
   const button = document.createElement('button');
   button.textContent = result ? 'Ergebnis öffnen und per E-Mail teilen'
     : draft ? 'Vorbereitung fortsetzen (' + progress(draft) + '/60)' : '60 Vorbereitungsfragen starten';
@@ -77,8 +97,17 @@ function renderHoliday() {
     focusMain();
   };
   section.append(button);
-  document.querySelector('#main h2').before(section);
+  return section;
 }
+
+function refreshHolidayRelease() {
+  if (!document.getElementById('subjects')) return;
+  const shown = [...document.querySelectorAll('[data-preparation-day]')].map(section => section.dataset.preparationDay);
+  if (shown.join() !== availableHolidayDays().join()) render();
+}
+
+window.addEventListener('focus', refreshHolidayRelease);
+setInterval(refreshHolidayRelease, 15000);
 
 function exerciseTitle(exercise) {
   return exercise.targetDay ? 'Vorbereitung für ' + fmt(exercise.targetDay) : exercise.subject;
