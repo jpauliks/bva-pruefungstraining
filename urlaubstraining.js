@@ -13,6 +13,44 @@ const HOLIDAY_FOCUS = {
   '2026-12-03': [[4, 'Reisekosten festigen', /wegstreck|tagegeld|kürzung|kilometer/i], [3, 'Beihilfe festigen', /beleg|bemess|frist|entstanden|eigenbehalt/i]]
 };
 
+const HOLIDAY_CUSTOM_QUESTIONS = {
+  frauLevin: {
+    id: 'BVA-2026-W48-AT-LEVIN-001',
+    originId: 'BVA-CASE-AT-FRAU-LEVIN-20261019',
+    subject: 'Arbeits- und Tarifrecht',
+    topic: 'Teilzeitentgelt und Teilmonatsentgelt',
+    difficulty: 'prüfungsnah',
+    type: 'number',
+    question: '2026: Frau Levin beginnt am 19.10.2026. Vereinbart sind 23,4 von 39 Wochenstunden; das fiktive Vollzeit-Tabellenentgelt beträgt 4.030 Euro. Anspruch besteht bis zum Monatsende. Wie hoch ist ihr Tabellenentgelt für Oktober 2026 in Euro?',
+    correct: 1014,
+    explanation: 'Zuerst wird das Teilzeitentgelt nach dem Verhältnis 23,4 zu 39 ermittelt; anschließend wird der Teilmonat nach Kalendertagen berechnet. Grundlage: § 24 Abs. 2 Buchst. a und Abs. 3 Satz 1 TVöD.',
+    legalBasis: '§ 24 Abs. 2 Buchst. a und Abs. 3 Satz 1 TVöD',
+    materialSources: [{
+      file: 'Skript_ATR_Aug25.pdf',
+      archive: '08-Arbeits-und-Tarifrecht-2.zip',
+      archivePath: 'Skript_ATR_Aug25.pdf',
+      pdfPages: [80, 81],
+      pageConvention: 'PDF-Seiten ab 1'
+    }],
+    examAnchor: {
+      file: 'HKR u ATR.pdf',
+      pdfPages: [5, 6, 7],
+      role: 'Themen- und Tiefenorientierung, eigenständig formulierter Wiederholungsfall'
+    },
+    week: '2026-11-23',
+    caseYear: 2026,
+    revision: 1,
+    reuse: 'gezielte Wiederholung',
+    repeatsOrigins: ['BVA-2026-W47-AT-046', 'BVA-2026-W47-AT-047'],
+    primarySources: [{
+      url: 'https://www.badv.bund.de/SharedDocs/Downloads/DE/Zentrale_Dienste/Tarifrecht/TVoeD.pdf',
+      checked: '2026-11-22',
+      provision: '§ 24 Abs. 2 Buchst. a und Abs. 3 Satz 1 TVöD'
+    }],
+    estimatedSeconds: 75
+  }
+};
+
 function holidayKey(day) {
   return 'vorbereitung::' + day;
 }
@@ -39,6 +77,10 @@ function holidayTasks(day) {
     for (const question of ranked) {
       if (selected.length === 30) break;
       if (!selected.includes(question)) selected.push(question);
+    }
+    if (day === '2026-11-22' && index === 2) {
+      const replaceAt = selected.findIndex(question => question.type === 'number');
+      if (replaceAt >= 0) selected[replaceAt] = HOLIDAY_CUSTOM_QUESTIONS.frauLevin;
     }
     return selected;
   });
